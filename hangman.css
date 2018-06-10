@@ -1,0 +1,27 @@
+body{
+    background-image: url("soccerfield.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px 700px;
+    
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+h2{
+    
+    margin-left: 450px;
+}
+
+section {
+    margin-top: 80px;
+}
+
+#gif {
+    margin-left: 100px;
+}
+
+
+
